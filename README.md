@@ -8,6 +8,6 @@ as this is not a signed application your computer and or antivirus may flag the 
 
 <h1>How to use.</h1>
 
-To trigger the timer simply press "Space" and to stop press it again.
+To trigger the timer simply press "Space" and to stop press it again. Then pressing to start again will reset the timer.
 
 you can export and import times from different timing sessions.
